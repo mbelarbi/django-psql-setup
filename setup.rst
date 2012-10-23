@@ -1,10 +1,10 @@
 Make sure python is installed
 ==========================
-	which python
+	`which python`
 You will get the location of where python is installed (i.e /usr/bin/python) if not
 --------------------------
-	sudo apt-get install python
-	sudo apt-get install python-dev
+	`sudo apt-get install python`
+	`sudo apt-get install python-dev`
 
 Make sure pip is installed
 ==========================
