@@ -22,6 +22,10 @@ Sync the db by running the sql from sqlall for all aps in INSTALLED_APPS.
 =====================
 	python manage.py syncdb
 
+install all packages that an existing projects requires on your virtual env
+=====================
+When you are working on your virtual env, you will need to locate a requirements file and run
+	pip install -r requirements
 
 http shortcuts:
 =====================
