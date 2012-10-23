@@ -39,6 +39,16 @@ If you will be using PostgreSQL You need to install postgresql-server-dev-X.Y fo
 ==========================
 	apt-get install postgresql-server-dev-9.1
 	apt-get install libpq-dev
+	apt-get install postgresql-client
+	apt-get install postgresql-contrib
+
+If you will be using Postgis you will need to install postgis and set a template on Postgres for it:
+==========================
+	apt-get install postgresql-9.1-postgis
+
+You will then need to create a spatial database template
+--------------------------
+	https://docs.djangoproject.com/en/1.4/ref/contrib/gis/install/#spatialdb-template
 
 you will also need the psycopg2 python module that django makes heavy use of
 ==========================
