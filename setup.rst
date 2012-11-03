@@ -20,7 +20,7 @@ This will install the virtualenv python package to your /usr/local/bin
 
 Install virtualenvwrapper
 ==========================
-	sudo pip install virtualenv
+	sudo pip install virtualenvwrapper
 This will install the virtualenvwrapper python package to your /usr/local/bin
 
 If you don't already have an Envs/ dir on you home~
