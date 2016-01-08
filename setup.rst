@@ -96,7 +96,7 @@ By defualt this will create the server on localhost port 8000 (http://127.0.0.1:
 
 Read follow the djnago tutorials
 ==========================
-https://docs.djangoproject.com/en/1.4/intro/tutorial01/
+https://docs.djangoproject.com/en/stable/intro/tutorial01/
 
 
 
